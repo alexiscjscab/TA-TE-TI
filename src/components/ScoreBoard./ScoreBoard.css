@@ -1,0 +1,27 @@
+.score-board {
+  width: 320px;
+  display: grid;
+  flex-direction: row;
+  grid-auto-flow: column;
+  margin-top: 10px;
+}
+
+.score-board div {
+  color: #fff;
+  text-align: center;
+  font-size: 2em;
+  padding: 5px;
+  font-weight: bold;
+  background-color: #4392f1;
+  box-shadow: 0 4px 10px #4392f1;
+}
+
+.score-board div:hover {
+  color: #000;
+}
+
+.score-board div:first-child {
+  background-color: #cd493a;
+  margin-right: 10px;
+  box-shadow: 0 4px 10px #cd493a;
+}
