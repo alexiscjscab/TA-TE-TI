@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 TA - TE - TI
-Link [ta-te-ti-react.netlify.app] (ta-te-ti-react.netlify.app) !
+[Link] (https://ta-te-ti-react.netlify.app) !
 
 ### `npm start`
 
